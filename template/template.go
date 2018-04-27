@@ -2,7 +2,7 @@ package template
 
 import (
 	"github.com/go-wechat/util/httper"
-	"github.com/go-wechat/official-account/common"
+	"github.com/go-wechat/mp/common"
 )
 
 const (
